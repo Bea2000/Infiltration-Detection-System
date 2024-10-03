@@ -1,4 +1,4 @@
-# Stuart is Sus: Infiltration Detection System
+# Infiltration Detection System
 
 This project was developed for the **Data Structures and Algorithms** course during the first semester of 2021 at the **Pontifical Catholic University of Chile**. It focuses on applying **hash tables** and **efficient search algorithms** to solve a challenging NP-Complete problem: detecting infiltrators in an organization by analyzing low-resolution surveillance images. The task involves handling large datasets and optimizing the search process using **incremental hashing** to ensure efficient detection of suspicious patterns.
 
